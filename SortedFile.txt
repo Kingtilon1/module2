@@ -1,0 +1,28 @@
+[tbobb@sol25 tilonrepo]$ cat musicdatas.sorted
+,Ain't Shit,Doja Cat,2282320,https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm
+,AM Remix,Nio Garcia,2650454,https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho
+,Bad Habits,Ed Sheeran,5503837,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2up                               E
+,Beggin',Måneskin,7072859,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+,Butter,BTS,3213014,https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN
+,deja vu,Olivia Rodrigo,2871290,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3Ue                               Ar
+,drivers license,Olivia Rodrigo,2348292,https://open.spotify.com/track/5wANPM4fQCJw                               kGd4rN57mH
+,good 4 u,Olivia Rodrigo,6121872,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNc                               jcG
+,happier,Olivia Rodrigo,2268859,https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlb                               fl
+,I WANNA BE YOUR SLAVE,Måneskin,3686712,https://open.spotify.com/track/4pt5fDVTg5Gh                               EvEtlz9dKk
+,Kiss Me More (feat. SZA),Doja Cat,4232392,https://open.spotify.com/track/3DarAbFuj                               v6eYNliUTyqtz
+,Levitating (feat. DaBaby),Dua Lipa,3388571,https://open.spotify.com/track/5nujrmhL                               ynf4yMoMtj8AQF
+,MONTERO (Call Me By Your Name),Lil Nas X,4099930,https://open.spotify.com/track/67                               BtfxlNbhBmCDR2L2l8qd
+,Motley Crew,Post Malone,2400215,https://open.spotify.com/track/40uMIn2zJLAQhNXghRj                               Bed
+,,,Note that these figures are generated using a formula that protects against any                                artificial inflation of chart positions.,
+,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,3034645,https://open.spotify.                               com/track/4iJyoBOLtHqaGxP12qzhQI
+,Permission to Dance,BTS,3659591,https://open.spotify.com/track/0LThjFY2iTtNdd4wviw                               VV2
+Position,Track Name,Artist,Streams,URL
+,Qué Más Pues?,J Balvin,3352196,https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk                               8e
+,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,2574226,https://open.spoti                               fy.com/track/37BZB0z9T8Xu7U3e65qxFy
+,Stay (with Justin Bieber),The Kid LAROI,6297059,https://open.spotify.com/track/5HC                               yWlXZPP0y6Gqq8TgA20
+,Todo De Ti,Rauw Alejandro,4071591,https://open.spotify.com/track/5RwV8BvLfX5injfqY                               odke9
+,traitor,Olivia Rodrigo,2938484,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQ                               CT
+,Volando - Remix,Mora,2499059,https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe
+,Yonaguni,Bad Bunny,3788789,https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS
+[tbobb@sol25 tilonrepo]$ ^C
+[tbobb@sol25 tilonrepo]$
